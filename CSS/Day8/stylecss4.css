@@ -45,8 +45,8 @@ the div
     width: 200px;
     height: 200px;
     background: pink;
-    background-image: url(Aneet\ Padda-2.jpg);
-    background-size: cover;
+    background-image: url(defender-exterior-left-rear-three-quarter.jpeg.avif);
+    background-size: contain;
     background-position: 20px;
     color: white;
 }
