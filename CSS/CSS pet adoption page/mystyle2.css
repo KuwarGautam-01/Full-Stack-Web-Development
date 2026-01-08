@@ -38,10 +38,19 @@ img {
 
 h3 , p {
     text-align: start;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 10px;
 }
 
 h4 {
     text-align: center;
+}
+
+@media (max-width: 390px) {
+    #pets {
+        flex-wrap: wrap;
+    }
+
+    /* .card {
+        margin: 10px;
+    } */
 }
