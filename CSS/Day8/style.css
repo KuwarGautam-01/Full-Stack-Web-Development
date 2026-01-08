@@ -1,0 +1,46 @@
+#box {
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 0.5px solid black;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#face {
+    height: 100%;
+    background-color: gold;
+    border: 0.5px solid black;
+    border-radius: 50%;
+}
+
+.eyes {
+    height: 50px;
+    width: 50px;
+    border: 0.5px solid black;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    /* margin: 30px; */
+}
+
+#eye2 {
+    margin-left: 80px;
+}
+
+#smile {
+    height: 50px;
+    width: 180px;
+    background-color: rgb(189, 38, 38);
+    position: relative;
+    left: 100px;
+    top: 200px;
+    border-radius: 0 0 50px 50px;
+}
+
+body {
+    background-color: rgb(72, 133, 238);
+}
