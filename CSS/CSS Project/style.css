@@ -414,3 +414,7 @@ a {
 .vol-margin {
     margin: 0.24rem;
 }
+
+.bullet {
+    font-size: 1.25rem;
+}
