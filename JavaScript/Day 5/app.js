@@ -24,7 +24,7 @@ const person = {
     city : "Nandurbar"
 }
 
-person.city = "Gurgaon";
+person.city = "Gurgaon"; 
 person.country = "India";
 
 console.log(person);
